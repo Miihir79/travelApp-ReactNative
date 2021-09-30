@@ -1,6 +1,6 @@
 # travelApp-ReactNative
 
-Beautiful UI using React Native. I have used Expo for this project.
+Beautiful UI using **React Native**. I have used Expo for this project.
 
 Build with tutorial which you can check <a href="https://www.youtube.com/watch?v=0W4evKX0a0M">here</a>
 <table>
@@ -16,3 +16,6 @@ Build with tutorial which you can check <a href="https://www.youtube.com/watch?v
   * Add more countries and places/hotels
   * Add hotel details 
   * Add tourist attractions
+  
+## What do you need to get started?
+  A code editor, the expo cli , and some basic googling skills will get you going.
